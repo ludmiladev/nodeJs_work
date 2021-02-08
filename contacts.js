@@ -4,7 +4,7 @@ const fs = require('fs');
 
 
 
-const contactsPath = path.join(__dirname, "db", "contacts.json");
+const contactsPath = path.join("db", "contacts.json");
 
 // задокументировать каждую функцию
 
