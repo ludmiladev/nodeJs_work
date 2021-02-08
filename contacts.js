@@ -77,3 +77,11 @@ function addContact(name, email, phone) {
   });
 }
 
+
+module.exports = {
+  listContacts,
+  getContactById,
+  removeContact,
+  addContact,
+};
+
