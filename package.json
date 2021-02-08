@@ -23,6 +23,10 @@
   },
   "homepage": "https://github.com/ludmiladev/nodeJs_work#readme",
   "devDependencies": {
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
   }
 }
